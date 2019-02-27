@@ -1,7 +1,7 @@
 # Vikings_Javascript_Team_Project
 MVP
 
-we have been tasked with creating an app that allows famous vikings to enter details about their battles.
+We have been tasked with creating an app that allows famous vikings to enter details about their battles.
 
 The app should:
 
