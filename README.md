@@ -1,9 +1,9 @@
 # Vikings_Javascript_Team_Project
-MVP
+# MVP
 
 We have been tasked with creating an app that allows famous vikings to enter details about their battles.
 
-The app should:
+# The app should:
 
 allow you to view the battles of each famous viking leaders.
 
