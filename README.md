@@ -16,3 +16,10 @@ We have been tasked with creating an app that allows famous vikings to enter det
 * allow you to delete the norse gods?????
 
 The app should be build from the perspective of the vikings from 1000 years ago, and has recently been discovered by internet archaeologists. It will serve a modern day purpose of educating people on the activities of these famous vikings from their own perspective.
+
+
+To run the app on the browser:-
+1) npm run build
+2) mongod
+3) npm run server:dev
+4) In the browser type localhost:3000 and the app should be up and running.
